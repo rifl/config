@@ -1,8 +1,8 @@
 <?php
-namespace Bear\Config;
+namespace rifl\Config;
 
 
-use Bear\Config\Definitions\DefinitionInterface;
+use rifl\Config\Definitions\DefinitionInterface;
 
 class ConfigDefinitionContainer
 {

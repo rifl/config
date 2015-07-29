@@ -1,5 +1,5 @@
 <?php
-namespace Bear\Config\Definitions;
+namespace rifl\Config\Definitions;
 
 
 use Symfony\Component\Config\Definition\ConfigurationInterface;

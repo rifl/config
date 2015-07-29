@@ -1,5 +1,5 @@
 <?php
-namespace Bear\Config;
+namespace rifl\Config;
 
 
 use Symfony\Component\Config\Definition\Processor;
